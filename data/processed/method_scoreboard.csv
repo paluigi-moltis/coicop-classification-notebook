@@ -5,4 +5,5 @@ Method 4: LogisticRegression,1.0,0.964,0.95,0.956
 Method 4: ComplementNB,1.0,0.927,0.91,0.911
 Method 2 (M1 + verdure keywords),0.973,0.705,0.74,0.699
 Method 1 (all categories),0.998,0.606,0.649,0.593
+Method 4: translate + zero-shot (n=200),1.0,0.375,0.363,0.366
 Method 4: zero-shot BART-MNLI (n=200),1.0,0.19,0.283,0.218
