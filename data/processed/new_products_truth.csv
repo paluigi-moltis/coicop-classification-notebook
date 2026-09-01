@@ -1,0 +1,26 @@
+name,retailer_category,banner,brand,pack_size,is_organic,is_promo,true_coicop
+Fresh Ribeye Steak Angus 300g,carne bovina,SuperBuy,,300 g,False,False,01.1.2.2
+Organic Free-Range Chicken Fillets 500g,carne avicunicola,CoopNord,,500 g,True,False,01.1.2.2
+Smoked Streaky Bacon 200g,carne suina,HyperMarket,,200 g,False,False,01.1.2.3
+Salami Felino PGI 250g,formaggi e salumi salumi confezionati,SuperBuy,,250 g,False,False,01.1.2.3
+Vienna Sausages in Brine 400g,scatolame carne in gelatina,DiscountOra,,400 g,False,True,01.1.2.5
+Blood Pudding Traditional 180g,carne suina,CoopNord,,180 g,False,False,01.1.2.5
+Sicilian Oranges 1kg Bag,ortofrutta frutta fresca,SuperBuy,,1 kg,False,False,01.1.6.2
+Lemon Juice Not From Concentrate 250ml,juices,HyperMarket,,250 ml,False,False,01.2.1.0
+Pink Grapefruit Pack of 4,ortofrutta frutta fresca,DiscountOra,,,False,True,01.1.6.2
+Golden Delicious Apples 1kg,ortofrutta frutta fresca,CoopNord,,1 kg,False,False,01.1.6.3
+Apricots Pescatore 500g,ortofrutta frutta fresca,SuperBuy,,500 g,False,False,01.1.6.3
+Wild Blueberries 250g,ortofrutta frutta fresca,HyperMarket,,250 g,False,True,01.1.6.4
+Pomegranate Each,ortofrutta frutta fresca,DiscountOra,,,False,False,01.1.6.5
+Cherry Tomato Passata 700ml,ortofrutta verdure,CoopNord,,700 ml,False,False,01.1.7.2
+Organic Rainbow Chard 200g,ortofrutta verdure,SuperBuy,,200 g,True,False,01.1.7.1
+Green Lentils du Puy 500g,ortofrutta legumi e cereali,HyperMarket,,500 g,False,False,01.1.7.6
+Borlotti Beans Canned 400g,tins cans & packets,DiscountOra,,400 g,False,False,01.1.7.6
+Truffle Tagliatelle Ready Meal 350g,tins cans & packets,CoopNord,,350 g,False,True,01.1.9.1
+Grilled Zucchini Ready Salad 250g,ortofrutta verdure,SuperBuy,,250 g,False,False,01.1.9.1
+Earl Grey Tea 50 Teabags,"zucchero, caffe', te', infusi | te'",HyperMarket,,,False,False,01.2.3.0
+Chamomile and Lemon Infusion 20 Bags,"zucchero, caffe', te', infusi | te'",DiscountOra,,,False,False,01.2.3.0
+Primitivo di Manduria DOC 75cl,wine,CoopNord,,75 cl,False,True,02.1.2.1
+Vermentino di Sardegna 2023 750ml,"vini, birra e liquori | vini",SuperBuy,,750 ml,False,False,02.1.2.1
+Rainforest Smoothie Mango 330ml,juices & smoothies,HyperMarket,,330 ml,False,False,01.2.1.0
+Taurus Boost Energy Drink 500ml,soft drinks,DiscountOra,,500 ml,False,True,OUT-OF-SCOPE

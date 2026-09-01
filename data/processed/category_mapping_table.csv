@@ -1,0 +1,66 @@
+retailer_category,n_products,mapped_code,purity,n_codes,mapped_title
+ortofrutta frutta fresca,544,01.1.6.3,0.546,7,"Stone fruits and pome fruits, fresh"
+ortofrutta verdure,379,01.1.7.1,0.412,6,"Leafy or stem vegetables, fresh or chilled"
+formaggi e salumi salumi confezionati,166,01.1.2.3,0.837,2,"Meat, dried, salted, in brine or smoked"
+carne bovina,162,01.1.2.2,0.926,3,"Meat, fresh, chilled or frozen"
+wine,154,02.1.2.1,1.0,1,Wine from grapes
+carne suina,115,01.1.2.2,0.626,3,"Meat, fresh, chilled or frozen"
+carne avicunicola,107,01.1.2.2,0.935,2,"Meat, fresh, chilled or frozen"
+carne ovi-caprina,68,01.1.2.2,0.971,2,"Meat, fresh, chilled or frozen"
+ortofrutta frutta secca,67,01.1.6.9,0.836,5,"Fruits and nuts, ground, and in other preparations"
+ortofrutta legumi e cereali,59,01.1.7.6,0.797,3,Pulses
+formaggi e salumi salumi freschi,51,01.1.2.3,0.627,2,"Meat, dried, salted, in brine or smoked"
+juices,40,01.2.1.0,1.0,1,Fruit and vegetable juices
+"acqua, bevande, alcolici | vini",39,02.1.2.1,1.0,1,Wine from grapes
+tins cans & packets,36,01.1.9.1,0.667,3,Ready-made food
+ortofrutta frutta e verdure biologiche,34,01.1.6.9,0.412,6,"Fruits and nuts, ground, and in other preparations"
+tea,27,01.2.3.0,1.0,1,"Tea, maté and other plant-derived products for infusion"
+formaggi e salumi salumi stagionati,24,01.1.2.3,0.75,2,"Meat, dried, salted, in brine or smoked"
+ortofrutta frutta e vegetali secchi,21,01.1.6.9,0.667,6,"Fruits and nuts, ground, and in other preparations"
+scatolame carne in gelatina,21,01.1.2.5,1.0,1,"Preparations of meat, offal, blood and other parts of slaughtered animals"
+"vini, birra e liquori | vini",21,02.1.2.1,1.0,1,Wine from grapes
+carne altre specie,21,01.1.2.2,0.857,2,"Meat, fresh, chilled or frozen"
+juices & smoothies,19,01.2.1.0,1.0,1,Fruit and vegetable juices
+carne confezionata,19,01.1.2.5,0.842,3,"Preparations of meat, offal, blood and other parts of slaughtered animals"
+"acqua, bevande, alcolici | succhi di frutta",19,01.2.1.0,1.0,1,Fruit and vegetable juices
+drinks | wine | red wine,19,02.1.2.1,1.0,1,Wine from grapes
+drinks | wine | white wine,15,02.1.2.1,1.0,1,Wine from grapes
+"acqua, bibite e succhi | succhi",12,01.2.1.0,1.0,1,Fruit and vegetable juices
+wine cellar | wine  ,10,02.1.2.1,1.0,1,Wine from grapes
+"acqua, bevande, alcolici | bevande analcoliche",10,01.2.3.0,0.9,2,"Tea, maté and other plant-derived products for infusion"
+"acqua, bevande, alcolici | spumanti e champagne",10,02.1.2.1,1.0,1,Wine from grapes
+"caffè, tea e zucchero | tea e infusi",8,01.2.3.0,1.0,1,"Tea, maté and other plant-derived products for infusion"
+"zucchero, caffe', te', infusi | te' e infusi",7,01.2.3.0,1.0,1,"Tea, maté and other plant-derived products for infusion"
+iced tea,7,01.2.3.0,1.0,1,"Tea, maté and other plant-derived products for infusion"
+drinks | ice tea | ice tea,7,01.2.3.0,1.0,1,"Tea, maté and other plant-derived products for infusion"
+beverages | juices & ice-teas,7,01.2.1.0,0.857,2,Fruit and vegetable juices
+drinks | smoothies & juice drinks | long life juice,6,01.2.1.0,1.0,1,Fruit and vegetable juices
+beverages | coffee & tea,6,01.2.3.0,1.0,1,"Tea, maté and other plant-derived products for infusion"
+saft & nektar,5,01.2.1.0,1.0,1,Fruit and vegetable juices
+"vini, birra e liquori | spumanti e champagne",5,02.1.2.1,1.0,1,Wine from grapes
+"acqua, bevande, alcolici | liquori",5,02.1.2.1,1.0,1,Wine from grapes
+infusi,4,01.2.3.0,1.0,1,"Tea, maté and other plant-derived products for infusion"
+organic drinks,4,01.2.1.0,0.75,2,Fruit and vegetable juices
+drinks | wine | champagne & sparkling wine,4,02.1.2.1,1.0,1,Wine from grapes
+soft drinks,4,01.2.3.0,0.75,2,"Tea, maté and other plant-derived products for infusion"
+wine cellar | wine,4,02.1.2.1,1.0,1,Wine from grapes
+chilled fruit juice & smoothie,4,01.2.1.0,1.0,1,Fruit and vegetable juices
+thè,3,01.2.3.0,1.0,1,"Tea, maté and other plant-derived products for infusion"
+organic products,3,01.1.6.9,1.0,1,"Fruits and nuts, ground, and in other preparations"
+"vini, birra e liquori | liquori",2,02.1.2.1,1.0,1,Wine from grapes
+drinks | wine | rose wine,2,02.1.2.1,1.0,1,Wine from grapes
+drinks | smoothies & juice drinks | chilled fresh fruit juice,2,01.2.1.0,1.0,1,Fruit and vegetable juices
+"food cupboard groceries | tea | fruit, herbal, oganic tea & camomile",2,01.2.3.0,1.0,1,"Tea, maté and other plant-derived products for infusion"
+food cupboard groceries | coffee | coffee sachets & pods,1,01.2.3.0,1.0,1,"Tea, maté and other plant-derived products for infusion"
+scatolame carne senza gelatina,1,01.1.2.5,1.0,1,"Preparations of meat, offal, blood and other parts of slaughtered animals"
+drinks | smoothies & juice drinks | chilled smoothies & ice coffee,1,01.2.1.0,1.0,1,Fruit and vegetable juices
+tee,1,01.2.3.0,1.0,1,"Tea, maté and other plant-derived products for infusion"
+"drinks | spirits & liqueurs | non-alcoholic aperitivs, cocktails etc",1,02.1.2.1,1.0,1,Wine from grapes
+drinks | squashes | fruit & milk squashes,1,01.2.1.0,1.0,1,Fruit and vegetable juices
+"vini, birra e liquori | birra",1,02.1.2.1,1.0,1,Wine from grapes
+groceries | soups,1,01.1.9.1,1.0,1,Ready-made food
+groceries | canned items,1,01.1.2.5,1.0,1,"Preparations of meat, offal, blood and other parts of slaughtered animals"
+"acqua, bibite e succhi | bibite",1,01.2.3.0,1.0,1,"Tea, maté and other plant-derived products for infusion"
+"acqua, bibite e succhi | bevande vegetali",1,01.2.1.0,1.0,1,Fruit and vegetable juices
+drinks | wine | dessert wine,1,02.1.2.1,1.0,1,Wine from grapes
+"cola, limonaden, eistee",1,01.2.3.0,1.0,1,"Tea, maté and other plant-derived products for infusion"
