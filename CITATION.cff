@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: >-
+  If you use this repository, please cite it together with the UN-CEBD
+  Scanner Data handbook and the Zenodo source dataset.
+title: COICOP Classification Notebook
+type: software
+authors:
+  - family-names: Palumbo
+    given-names: Luigi
+repository-code: 'https://github.com/paluigi-moltis/coicop-classification-notebook'
+abstract: >-
+  Example Jupyter notebook for classifying scanner-data products into
+  COICOP 2018 for CPI production, following the UN-CEBD Task Team on
+  Scanner Data classification methodology (Methods 0-4, evaluation,
+  class imbalance, production loop). Data: manual records from Zenodo
+  10.5281/zenodo.18459651 (CC-BY-SA 4.0), augmented with deterministic
+  synthetic attributes.
+keywords:
+  - COICOP
+  - CPI
+  - consumer price index
+  - scanner data
+  - classification
+  - machine learning
+  - official statistics
+license: MIT
+commit: main
